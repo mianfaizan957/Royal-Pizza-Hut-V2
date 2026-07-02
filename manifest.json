@@ -2,19 +2,18 @@
   "name": "Royal Pizza Hut",
   "short_name": "Royal Pizza",
   "description": "Fresh Pizza & Fast Delivery",
-  "start_url": "./",
+  "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#c1121f",
   "theme_color": "#c1121f",
-  "orientation": "portrait",
   "icons": [
     {
-      "src": "images/logo.png.jpeg",
+      "src": "logo.png.jpeg",
       "sizes": "192x192",
       "type": "image/jpeg"
     },
     {
-      "src": "images/logo.png.jpeg",
+      "src": "logo.png.jpeg",
       "sizes": "512x512",
       "type": "image/jpeg"
     }
